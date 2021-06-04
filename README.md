@@ -85,11 +85,6 @@ python3 file05_All_area_dataset-15s.py > All_area_dataset.log
 python3 file06_analysis_and_plot.py
 ```
 
-
-```python
-
-```
-
     
         Plot Figure 2: The CO-SO2 (a, b), NO-SO2 (c, d), and NO2-SO2 (e, f) relationships 
         before (a, c, e) and after (b, d, f) the O3 normalization of Tainan station.
